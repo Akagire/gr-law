@@ -74,7 +74,7 @@ a = gr.gr_a(min_m_cnt, min_m, b)
 # GR則を計算
 y = gr.gr(bins, a, b)
 
-# matplotlab の設定
+# matplotlib の設定
 # y軸を対数にする
 plt.yscale('log')
 plt.xlabel('Magnitude')

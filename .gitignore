@@ -1,6 +1,7 @@
 venv
 __pycache__
 
-data/
-cache
-!cache/.keep
+data/centre/**/*
+cache/**/*
+
+!.keep
